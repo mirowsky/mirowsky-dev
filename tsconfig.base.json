@@ -12,6 +12,7 @@
     "module": "esnext",
     "lib": ["es2017", "dom"],
     "skipLibCheck": true,
+    "types": ["jest"],
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
